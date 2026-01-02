@@ -1742,3 +1742,10 @@ window.addEventListener("keydown", (e) => {
 window.onbeforeunload = () => {
   for (const f of document.getElementsByTagName("form")) f.reset();
 };
+/* =========================
+   Footer year auto update
+========================= */
+const yearEl = document.getElementById("year");
+if (yearEl) {
+  yearEl.textContent = new Date().getFullYear();
+}
