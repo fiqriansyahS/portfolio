@@ -82,7 +82,42 @@ const portfolioData = [
       "PASANG Podcast, Adat, Sejarah & Pappasang yang diselenggarakan oleh Mitologi Bumi Sulawesi bekerja sama dengan Kementrian Pendidikan, Kebudayaan, Riset dan Teknologi, Dana Indonesiana dan Lembaga Pengelola Dana Pendidikan (LPDP)",
     tags: ["Podcast", "Adat", "Sejarah"],
   },
-
+ {
+    id: "yt-6",
+    title: "Monolog Rian Fahardhi – Keunggulan yang Tidak Adil dari Seorang Introvert",
+    category: "Long Video (YouTube)",
+    type: "youtube",
+    sourceUrl:
+      "https://youtu.be/iHMji8VraBo?si=khI2zvSsrlt4zgYN",
+    embedUrl: "https://youtu.be/iHMji8VraBo?si=khI2zvSsrlt4zgYN",
+    thumbnailUrl: "https://img.youtube.com/vi/t9ZkRZsAr8g/hqdefault.jpg",
+    description: "Video ini membahas: • Kenapa sistem modern tidak ramah untuk introvert • Cara kerja otak introvert (Susan Cain & neurosains) • System 1 vs System 2 (Daniel Kahneman) • Kenapa dunia menghargai reaksi cepat, bukan refleksi • Dan bagaimana memilih arena yang tepat bisa mengubah segalanya.",
+    tags: ["monolog", "Edukasi", "Psikologi"],
+  },
+       {
+    id: "yt-7",
+    title: "Monolog Rian Fahardhi – Kegagalan Resolusi 2026 (Part 2)",
+    category: "Long Video (YouTube)",
+    type: "youtube",
+    sourceUrl:
+      "https://youtu.be/Yyfobk9wMAM?si=X4_FcVc6J3F5xT31",
+    embedUrl: "https://youtu.be/Yyfobk9wMAM?si=X4_FcVc6J3F5xT31",
+    thumbnailUrl: "https://img.youtube.com/vi/t9ZkRZsAr8g/hqdefault.jpg",
+    description: "Di video ini, kita bahas kenapa hidup banyak orang tidak benar-benar bergerak dari tahun ke tahun, walaupun sibuk, capek, dan merasa “sudah berusaha”. Masalahnya bukan di motivasi tapi di kedewasaan cara mengambil tanggung jawab dan membangun sistem hidup.",
+    tags: ["monolog", "Edukasi", "Psikologi"],
+  },
+       {
+    id: "yt-8",
+    title: "Monolog Rian Fahardhi – Kegagalan Resolusi 2026 (Part 1)",
+    category: "Long Video (YouTube)",
+    type: "youtube",
+    sourceUrl:
+      "https://youtu.be/G--tk4UpQGo?si=AKYu-9iEHwxMJkK5",
+    embedUrl: "https://youtu.be/G--tk4UpQGo?si=AKYu-9iEHwxMJkK5",
+    thumbnailUrl: "https://img.youtube.com/vi/t9ZkRZsAr8g/hqdefault.jpg",
+    description: "Video ini tentang mendesain tahun yang benar-benar bisa dijalani berdasarkan psikologi perilaku, riset ilmiah, dan praktik yang realistis.",
+    tags: ["monolog", "Edukasi", "Psikologi"],
+  },
   /* ============== PROJECT VIDEO GOOGLE DRIVE (5) ============ */
   {
     id: "drv-project-1",
@@ -342,13 +377,13 @@ const portfolioData = [
   },
   {
     id: "ig-short-4",
-    title: "Rian Fahardhi - Yayasan SejutaCita Pendidikan Indonesia (Ads)",
+    title: "Rian Fahardhi - Short ad Launching Buku Filsafat Kecemasan",
     category: "Short Video (IG)",
     type: "link",
     sourceUrl: "https://www.instagram.com/p/DVOSg4eE7FG/",
     embedUrl: "",
     thumbnailUrl: "https://via.placeholder.com/900x600.png?text=IG+Reels+4",
-    description: "Video ads Yayasan SejutaCita Pendidikan Indonesia.",
+    description: "",
     tags: ["IG", "Reels", "Ads"],
   },
   {
