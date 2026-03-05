@@ -345,7 +345,7 @@ const portfolioData = [
     title: "Rian Fahardhi - Yayasan SejutaCita Pendidikan Indonesia (Ads)",
     category: "Short Video (IG)",
     type: "link",
-    sourceUrl: "https://www.instagram.com/p/DSNBzwPEzef/",
+    sourceUrl: "https://www.instagram.com/p/DVOSg4eE7FG/",
     embedUrl: "",
     thumbnailUrl: "https://via.placeholder.com/900x600.png?text=IG+Reels+4",
     description: "Video ads Yayasan SejutaCita Pendidikan Indonesia.",
